@@ -204,6 +204,7 @@ gap: 30px;
   min-height: 400px;
   flex-basis: 100%;
   background-image: url("../images/myDaily.png");
+  background-position: center center;
   }
 
 .piece2 {
