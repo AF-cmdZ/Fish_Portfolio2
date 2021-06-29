@@ -203,7 +203,7 @@ gap: 30px;
 .piece1  {
   min-height: 400px;
   flex-basis: 100%;
-  background-image: url("https://source.unsplash.com/random");
+  background-image: url("assets/images/myDaily.png");
   }
 
 .piece2 {
