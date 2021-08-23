@@ -213,7 +213,8 @@ gap: 30px;
 }
 
 .piece3 {
-  background-image: url("https://source.unsplash.com/random");
+  background-image: url("../images/theIronThrone.png");
+  background-position: center center;
 }
 
 .piece4 {
